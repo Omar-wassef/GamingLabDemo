@@ -9,7 +9,7 @@ public class Camera_Follow : MonoBehaviour
     public float minX;
     public float minY;
     public float maxX;
-    public float maxX; 
+    public float maxY; 
     // Start is called before the first frame update
     void Start()
     {
